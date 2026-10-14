@@ -1,8 +1,9 @@
 {
-  "sharedCommit": "ae0ad2b7e0ed4c162787d1cb23fec8c8bfee88bf",
+  "sharedCommit": "83dbfb4d8241501012c5ec22be49d79f28ccf6b7",
+  "playback": "lightweight over continuous gameplay",
   "baseline": "2f262f1f3d8e8cfb7bc9b95301e61bc7562f9123",
   "game": "af359ac533cce21130e553b864fad6858f48d1f747d6a07eee92dda100a8c052",
   "original": "cc31b5df262410c2acf8f2b532040bb1208c56f39da08a86540a56a38248704e",
-  "css": "0471b8d1806c0a7eaeab3be67b822cb43a5278efadd103ada30a9782061fb481",
-  "js": "7deab312f84a943e6ebad4f5295fce272e2248a883b1d85d2327726f1c75e3dd"
+  "css": "70723556209736cc1d9e8dff2aa2fb5e68157d6ab0de2983406376baad85a8d0",
+  "js": "78e5f1cd0ab28f5361c445cecf6d539664d6ef5a39ceedb5228e2bfca5501bed"
 }
